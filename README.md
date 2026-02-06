@@ -63,7 +63,7 @@ Crea un nuovo task.
   "description": "Capire come funzionano le API"
 }
 
----
+```
 
 🌐 Frontend di test
 
