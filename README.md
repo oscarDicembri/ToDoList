@@ -63,6 +63,8 @@ Crea un nuovo task.
   "description": "Capire come funzionano le API"
 }
 
+---
+
 🌐 Frontend di test
 
 Nel progetto è incluso un semplice index.html che permette di:
